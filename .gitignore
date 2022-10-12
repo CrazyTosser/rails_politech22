@@ -17,4 +17,7 @@
 !/first/tmp/storage/.keep
 
 /first/config/master.key
-/second/.idea
+/second/.idea      
+/third/.idea
+/third/.bundle
+/third/vendor
